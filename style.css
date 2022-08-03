@@ -1,0 +1,51 @@
+.propic{
+   
+}
+.body{
+    background-color: rgb(224, 246, 251);
+}
+#glass{
+    background-color:rgb(219, 248, 255);
+    border-radius:1rem;
+}
+#about{
+    background-color: rgb(190, 236, 248);
+}
+.card1{
+    background-color: rgb(230, 250, 255);
+}
+.sec{
+    background-color: rgb(213, 245, 253);
+}
+.card-img-top{
+    height:12rem;
+}
+span{
+    font-size:2rem;
+    font-family:monospace;
+    font-style: initial;
+    font-weight:2rem;
+    background-color: rgb(59, 64, 65);
+    color: white;
+    border:0.1rem solid rgb(52, 113, 109); 
+}
+.copy{
+    color:rgb(212, 11, 11);
+    margin-left: 2rem;
+    
+}
+.copy:hover{
+    color: rgb(255, 255, 255);
+}
+.social{
+    text-decoration: none;
+    width:3rem;
+    border:0.5rem solid rgb(8, 199, 209);
+   margin-left:2rem;
+}
+.footer{
+    background-color: rgb(2, 52, 63);
+}
+li{
+  
+}
